@@ -2,6 +2,6 @@
 
 For now only sample outputs available.  See the docs/ folder for screenshots.
 
-Interactive example output html accessible at:
-https://tin6150.github.io/taxonomy_reporter/taxorpt_sample_output.html
-
+jQuery does not run from github.io :(
+Thus, access the interactive example output html  at:
+http://psg.skinforum.org/taxorpt_eg_output/taxorpt_sample_output.html
