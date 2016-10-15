@@ -1,5 +1,6 @@
-# taxonomy_reporter
+# taxonomy reporter
+A metagenomics taxonomy reporting tool.
 
-For now only sample outputs available.  
+For now, only sample outputs available.  
 - See the docs/ folder for screenshots.
 - https://tin6150.github.io/taxonomy_reporter/taxorpt_sample_output.html  for interactive jQuery html output example
