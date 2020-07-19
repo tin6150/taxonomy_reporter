@@ -1,12 +1,12 @@
 Taxonomy Reporter
 =================
 
+A metagenomics taxonomy reporting tool.
+
 .. figure:: docs/taxorpt_output_html_with_jquery.png
         :align: center
         :alt: example screenshot of taxonomy reporter output
 
-
-A metagenomics taxonomy reporting tool.
 
 Sample outputs available via:  
   - See the docs/ folder for additional screenshots.
